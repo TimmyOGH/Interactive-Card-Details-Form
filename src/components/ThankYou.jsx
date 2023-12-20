@@ -5,7 +5,7 @@ function ThankYou(props) {
     return (
         <div className="thankyou">
             <Image
-                src="/images/icon-complete.svg"
+                src="./images/icon-complete.svg"
                 alt="icon-complete"
             />
             <h3>THANK YOU!</h3>
