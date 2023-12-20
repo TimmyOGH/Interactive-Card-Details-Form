@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/TimmyOGH/Interactive-Card-Details-Form)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://timmyogh.github.io/Interactive-Card-Details-Form)
 
 ### Built with
 
